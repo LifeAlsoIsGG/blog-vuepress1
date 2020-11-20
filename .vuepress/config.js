@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "LifeAlsoIsGG's Wiki",
+  "title": "wiki-vuepress",
   "description": "",
   "dest": "public",
   "base": "/wiki-vuepress/",
